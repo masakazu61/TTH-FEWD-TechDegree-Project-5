@@ -12,7 +12,7 @@
 
 .gallery {
   display: grid;
-  max-width: 90%;
+  max-width: 100%;
   grid-template-columns: repeat(4, 225px);
   grid-template-rows: repeat(3, 225px);
   grid-gap: 15px; 
