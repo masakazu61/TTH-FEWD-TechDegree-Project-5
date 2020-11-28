@@ -1,13 +1,14 @@
 .top {
   display: grid;
   width: 40%;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 30px;
   margin: auto;
 }
 
 #search {
   font-size: 1.3em;
+  height: 45px;
 }
 
 .gallery {
