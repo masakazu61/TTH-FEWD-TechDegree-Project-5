@@ -13,12 +13,11 @@
 
 .gallery {
   display: grid;
-  max-width: 100%;
+  width: 1000px;
   grid-template-columns: repeat(4, 225px);
   grid-template-rows: repeat(3, 225px);
   grid-gap: 15px; 
-  margin-left: 200px;
+  margin: 0 auto;
 }
-
 
 
